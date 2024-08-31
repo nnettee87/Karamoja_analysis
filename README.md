@@ -1,6 +1,7 @@
 **Food Security Monitoring Tool for Karamoja, Uganda**
 
 **Project Overview**
+
 This project develops an interactive visualization tool to monitor food security in the Karamoja region of Uganda. The tool focuses on visualizing yield data for sorghum and maize, the two main staple crops in the region, based on satellite imagery analysis conducted by Dalberg Data Insights (DDI).
 **Purpose**
 The primary goal is to support decision-making for NGOs active in Karamoja by providing a comprehensive view of crop yields across different administrative levels (districts and sub-counties).
