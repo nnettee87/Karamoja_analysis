@@ -16,7 +16,9 @@ Population and crop area statistics integration
 **Data Sources**
 
 Shapefiles for Uganda's districts and sub-counties
+
 Crop type maps for sorghum and maize
+
 Yield and population data at sub-county and district levels
 
 Tools Used
